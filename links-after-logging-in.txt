@@ -1,0 +1,6 @@
+Movie link
+https://developer.themoviedb.org/reference/discover-movie
+
+
+api_key link
+https://www.themoviedb.org/settings/api
